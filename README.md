@@ -7,16 +7,18 @@
 Based only on the classic configuration file and all the plugins are installed directly on the project.
 
 _E.g:_
-[Toby uses common config](/toby)
-[Toby's package](/toby/package.json)
+[Toby uses common config](/packages/toby)
+
+[Toby's package](/packages/toby/package.json)
 
 ##### 2. Eslint Plugin +:
 
 More programmatically way to handle the rules and plugins, this way only `eslint-plugin-leads` is necessary to be installed and all the rest will be managed by the plugin
 
 _E.g:_
-[Billy uses plugin+](/billy)
-[Billy's package](/billy/package.json)
+[Billy uses plugin+](/packages/billy)
+
+[Billy's package](/packages/billy/package.json)
 
 ---
 
